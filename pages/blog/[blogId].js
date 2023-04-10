@@ -6,6 +6,7 @@ function BlogDetails() {
 
     console.log(blogId)
 
+
     return (
         <div>This id: {blogId} blog details </div>
     )
