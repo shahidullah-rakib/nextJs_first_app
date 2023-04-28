@@ -1,0 +1,29 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "uvname": "AIUB",
+      "location": "Kuril, Dhaka"
+    },
+    {
+      "id": 2,
+      "uvname": "NSU",
+      "location": "Basundhara, Dhaka"
+    },
+    {
+      "id": 3,
+      "uvname": "BRAC",
+      "location": "Mohakhali, Dhaka"
+    },
+    {
+      "uvname": "EWU",
+      "location": "Badda",
+      "id": 4
+    },
+    {
+      "uvname": "JU",
+      "location": "Shaver, Dhaka",
+      "id": 5
+    }
+  ]
+}

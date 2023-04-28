@@ -6,12 +6,23 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "server": "json-server --watch db.json --port 5000",
+    "uv-server": "json-server --watch uv.json --port 5001"
   },
   "dependencies": {
+    "@reduxjs/toolkit": "^1.9.3",
+    "axios": "^1.3.5",
+    "jquery": "^3.6.4",
+    "jsonwebtoken": "^9.0.0",
     "next": "13.3.0",
+    "npm": "^9.6.4",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-redux": "^8.0.5",
+    "redux": "^4.2.1",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.4.2"
   },
   "devDependencies": {
     "eslint": "8.38.0",
